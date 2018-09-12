@@ -1,0 +1,6 @@
+Arroz#10#13
+Azucar#4#6
+Cocoa#3#5
+Blen#4#9
+Fideos#3#5
+MemoriaRam#5#15
